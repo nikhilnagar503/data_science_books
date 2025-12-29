@@ -1,2 +1,2 @@
 # MY_book
-here  i have styore the books that I have read and i will read them, in future
+here  i have store the books that I have been reading and i will read them, in future
